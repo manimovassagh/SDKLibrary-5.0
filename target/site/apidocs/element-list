@@ -1,0 +1,15 @@
+com.sdk
+com.sdk.console
+com.sdk.data.structures
+com.sdk.data.types
+com.sdk.database.connections
+com.sdk.database.repository
+com.sdk.magicmp3
+com.sdk.network
+com.sdk.rs2xml
+com.sdk.security
+com.sdk.storage.base
+com.sdk.storage.file
+com.sdk.swingui
+com.sdk.swingui.dialogs
+com.sdk.tools
